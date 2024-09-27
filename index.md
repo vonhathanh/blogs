@@ -1,5 +1,4 @@
 ---
 title: Welcome to my blog
+content: None
 ---
-content: hello world
-
