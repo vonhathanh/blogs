@@ -1,1 +1,1 @@
-https://vonhathanh.github.io/skills-github-pages/
+https://vonhathanh.github.io/blogs/
